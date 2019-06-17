@@ -8,10 +8,5 @@ target 'eight-prince' do
   # Pods for eight-prince
   pod "ESTabBarController-swift"
   pod 'FirebaseUI'
-  pod 'FirebaseUI/Auth'
-  pod 'FirebaseUI/Google'
-  pod 'FirebaseUI/Facebook'
-  pod 'FirebaseUI/Twitter'
-  pod 'FirebaseUI/Phone'
 
 end

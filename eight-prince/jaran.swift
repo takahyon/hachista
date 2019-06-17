@@ -8,6 +8,8 @@
 
 import UIKit
 import UIKit.UICollectionView
+import ESTabBarController_swift
+
 
 class jaran: UIViewController, UICollectionViewDataSource, UICollectionViewDelegate, UITabBarDelegate {
 
